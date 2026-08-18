@@ -9,7 +9,7 @@
 
 ## 🧠 Professional Summary
 
-Full Stack Engineer with a strong focus on building **AI-powered, production-ready applications**. Experienced in integrating **LLMs, vector search, and agentic workflows** into scalable systems. Passionate about developing **intelligent, context-aware applications** that combine real-time interaction with advanced AI capabilities.
+AI Full Stack Engineer with a strong focus on building **AI-powered, production-ready applications**. Experienced in integrating **LLMs, vector search, and agentic workflows** into scalable systems. Passionate about developing **intelligent, context-aware applications** that combine real-time interaction with advanced AI capabilities.
 
 ---
 
