@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukesh Bairu
 
-🚀 **Full Stack Engineer @ JSOC IT** (Apr 2025 – Present)
+🚀 **Software Engineer @ Libertas Funding LLC** (Apr 2026 – Present)
 🤖 Focused on **AI/ML Systems, Agentic Architectures, and LLM Applications**
 🎓 MS in Computer Science — Stevens Institute of Technology
 🎓 B.Tech in Computer Science — NIT Silchar
@@ -34,6 +34,17 @@ AI Full Stack Engineer with a strong focus on building **AI-powered, production-
 * Designed end-to-end systems including **frontend UI, backend services, and database layers**
 * Improved application performance and optimized API response times
 * Worked on **real-time data handling and user interaction flows**
+
+### **Software Engineer — Anuta Networks**
+
+📅 Aug 2020 – July 2023
+
+* Designed and implemented full-stack solutions for predictive analytics, combining ReactJS (frontend) and Flask (backend), improving decision-making processes by 25%.
+* Designed and implemented full-stack, data-driven applications integrating backend ML services with modern frontend dashboards.
+* Built and maintained Python-based data pipelines and backend systems to support analytics and AI workflows.
+* Integrated machine learning models into production systems using REST APIs, enabling real-time insights and decision support.
+* Conducted model evaluation, performance tuning, and A/B testing to improve reliability and business impact.
+* Collaborated in Agile teams to deliver scalable, production-grade software solutions.
 
 ---
 
