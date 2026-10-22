@@ -15,9 +15,19 @@ AI Full Stack Engineer with a strong focus on building **AI-powered, production-
 
 ## 💼 Experience
 
+### **Software Engineer — Libertas Funding LLC**
+
+📅 Apr 2026 – Present
+
+* Develop and enhance FMS, a production financial services platform using Node.js, Express.js, React, TypeScript, and Sequelize, delivering features across frontend, backend, and database layers.
+* Integrated Anthropic Claude with Jira through tool-based workflows to support AI-assisted task execution, code reviews, and issue identification across three interconnected repositories: frontend, backend, and a PHP application.
+* Leveraged cross-repository analysis to identify potential integration issues and regressions, contributing to a 30%+ reduction in card-related QA failures.
+* Improved engineering workflow efficiency through AI-assisted development and issue analysis, contributing to approximately 25% higher sprint productivity and faster ticket completion.
+* Implement product features, resolve bugs, optimize API and database interactions, and maintain third-party integrations with Ocrolus and Experian
+
 ### **Full Stack Engineer — JSOC IT**
 
-📅 Apr 2025 – Present
+📅 Apr 2025 – April 2026
 
 * Developed and maintained scalable web applications using **React, Typescript, Node.js, and Express**
 * Built and integrated **AI-driven features** using modern LLM APIs
